@@ -1,0 +1,7 @@
+C:\Users\cjkel\source\repos\MonsterClassesInheritance\MonsterClassesInheritance\obj\Debug\MonsterClassesInheritance.csprojAssemblyReference.cache
+C:\Users\cjkel\source\repos\MonsterClassesInheritance\MonsterClassesInheritance\obj\Debug\MonsterClassesInheritance.csproj.CoreCompileInputs.cache
+C:\Users\cjkel\source\repos\MonsterClassesInheritance\MonsterClassesInheritance\bin\Debug\MonsterClassesInheritance.exe.config
+C:\Users\cjkel\source\repos\MonsterClassesInheritance\MonsterClassesInheritance\bin\Debug\MonsterClassesInheritance.exe
+C:\Users\cjkel\source\repos\MonsterClassesInheritance\MonsterClassesInheritance\bin\Debug\MonsterClassesInheritance.pdb
+C:\Users\cjkel\source\repos\MonsterClassesInheritance\MonsterClassesInheritance\obj\Debug\MonsterClassesInheritance.exe
+C:\Users\cjkel\source\repos\MonsterClassesInheritance\MonsterClassesInheritance\obj\Debug\MonsterClassesInheritance.pdb
